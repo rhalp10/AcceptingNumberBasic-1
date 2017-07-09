@@ -1,7 +1,7 @@
 # AcceptingNumberBasic1
 [x]Accepting Number  And Display If Its Positive or Negative
 The Code is inside of the document with sample screenshoots 
-##CODE:
+# CODE
 ```
 #include<iostream.h>
 #include<conio.h>
